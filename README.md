@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is my personal flavor of the kickstart.nvim project. This project will include some of the keymaps that I use such as some additional plugins.
+This is my personal flavor of the kickstart.nvim project. This project will include some of the keymaps that I use and some additional plugins.
 
 A starting point for Neovim that is:
 
